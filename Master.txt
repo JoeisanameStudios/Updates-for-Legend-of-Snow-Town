@@ -1,3 +1,6 @@
-<Version: 2.00>
- /data/test.zip https://wordpress.org/latest.zip
+<Version: 2.01>
+ /data/Map009.json https://raw.githubusercontent.com/JoeisanameStudios/Updates-for-Legend-of-Snow-Town/master/Map009.json
+ /data/Map028.json https://raw.githubusercontent.com/JoeisanameStudios/Updates-for-Legend-of-Snow-Town/master/Map028.json
+ /data/Map019.json https://raw.githubusercontent.com/JoeisanameStudios/Updates-for-Legend-of-Snow-Town/master/Map019.json
+ /data/Map021.json https://raw.githubusercontent.com/JoeisanameStudios/Updates-for-Legend-of-Snow-Town/master/Map021.json
 <End of Version>
